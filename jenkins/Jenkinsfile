@@ -28,7 +28,7 @@ pipeline {
         }
         stage("Satge 6") {
             steps {
-                echo "very good completed the job 8"
+                echo "very good completed the job 6668"
             }
         }
     }
